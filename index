@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hoş geldiniz cennet hanım</title>
+    <style>
+        body{
+            background-color: lightblue;
+        }
+        h1{
+
+            color: darkblue;
+            font-family: 'Trocchi', serif;
+            font-size: 45px;
+            font-weight: normal;
+            line-height: 48px;
+            
+        }
+        div{
+            display: flex;
+
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+<div>
+
+    <h1>Bunu yazan sizi çok seviyorum</h1>
+
+</div>
+<a href="cennet1">Sizde seviyorsanız buraya tıklanıyınz...</a>
+
+</body>
+</html>
